@@ -14,16 +14,16 @@ The algorithm is explained in more detail on [Dave Bollinger's](http://web.archi
 <a href="http://web.archive.org/web/20080228054410/http://www.davebollinger.com/works/pixelspaceships/"><img src="https://github.com/zfedoran/pixel-sprite-generator/raw/master/doc/algorithm-0.png"></a>
 
 ## Examples
-**Spaceships**
+**Spaceships**  
 ![](images/spaceships.png)
 
-**Robots**
+**Robots**  
 ![](images/robots.png)
 
-**Dragons**
+**Dragons**  
 ![](images/dragons.png)
 
-**Dragons Top-Down**
+**Dragons Top-Down**  
 ![](images/dragons_top.png)
 
 
